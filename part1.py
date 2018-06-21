@@ -1,4 +1,4 @@
-# Linying Xie umid:xly
+# Linying Xie xly
 # these should be the only imports you need
 import tweepy
 import nltk
